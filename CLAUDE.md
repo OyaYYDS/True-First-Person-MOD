@@ -10,7 +10,7 @@
 - 优先稳定性，而不是代码重构
 
 当前主要开发文件：
-开发版本：C:\Oya_Someitem\3.ZTLWJ\Ai\Claude_Code\3769538724\Scripts\main.lua
+开发版本：C:\Oya_Someitem\3.ZTLWJ\Ai\True First Person MOD\3769538724\Scripts\main.lua
 Steam游戏模组位置：E:\Steam\steamapps\common\Palworld\Mods\NativeMods\UE4SS\Mods\FirstPerson\Scripts\main.lua
 ---
 
@@ -21,8 +21,8 @@ Steam游戏模组位置：E:\Steam\steamapps\common\Palworld\Mods\NativeMods\UE4
   - 写入规则：置信度 ≥90%，只写已验证/已复现/已确认失败的事实；无法确认标【待验证】
 - **Memory 文件**（原理级速记，会话自动载入）：`memory/MEMORY.md` — 自激振荡机制 / Lua 词法作用域 hook nil / MoveOptionRow 追加末尾语义
 - 讨论代码问题时先查上述两处，避免重复推导已证实结论。
-- **SDK参考**:"C:\Oya_Someitem\3.ZTLWJ\Ai\Claude_Code\参考内容\SDK调用参考"
-- **Lua参考**："C:\Oya_Someitem\3.ZTLWJ\Ai\Claude_Code\参考内容\Lua调用参考"
+- **SDK参考**:"C:\Oya_Someitem\3.ZTLWJ\Ai\True First Person MOD\参考内容\SDK调用参考"
+- **Lua参考**："C:\Oya_Someitem\3.ZTLWJ\Ai\True First Person MOD\参考内容\Lua调用参考"
 ---
 
 ## 核心开发原则
@@ -66,7 +66,7 @@ Steam游戏模组位置：E:\Steam\steamapps\common\Palworld\Mods\NativeMods\UE4
 
 ### 4. Steam部署规则
 
-开发文件:C:\Oya_Someitem\3.ZTLWJ\Ai\Claude_Code\3769538724\Scripts\main.lua
+开发文件:C:\Oya_Someitem\3.ZTLWJ\Ai\True First Person MOD\3769538724\Scripts\main.lua
 Steam游戏模组位置:E:\Steam\steamapps\common\Palworld\Mods\NativeMods\UE4SS\Mods\FirstPerson\Scripts\main.lua
 修改完成后：自动覆盖 Steam游戏模组位置。
 必须等待用户确认。
